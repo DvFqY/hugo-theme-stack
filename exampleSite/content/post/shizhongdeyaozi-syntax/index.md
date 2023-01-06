@@ -27,3 +27,4 @@ image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 
   这个故事告诉我们谨防天上掉馅饼，不要像申**一样，被钱财迷惑双眼。
 
+![](C:\Users\hjzhang\Pictures\壁纸\wallhaven-exyjow_1920x1080.png)
