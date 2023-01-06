@@ -13,7 +13,7 @@ menu:
         weight: -90
         params:
             icon: user
- image = "1.jpg"
+image: 1.jpg
 ---
 
 第2次搭建属于自己的博客，希望能成功。后期会不断完善的。
