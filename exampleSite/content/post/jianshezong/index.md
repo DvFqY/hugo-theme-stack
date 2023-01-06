@@ -14,7 +14,7 @@ tags = [
 ]
 image = "matt-le-SJSpo9hQf7s-unsplash.jpg"
 
-image = "2.jpg"
+
 
 +++
 
