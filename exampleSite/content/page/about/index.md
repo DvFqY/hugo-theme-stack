@@ -27,4 +27,4 @@ menu:
 
 希望能在这里让你们玩的开心，这里我后期学会后会在网站里藏点我的小彩蛋，可以寻找。 搭建这个网站最主要的难受一点就是我不懂代码！！
 
-b站 [bilbli]([血染大橘子的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/1240239117?spm_id_from=333.1007.0.0)).
+b站 [bilbli][https://space.bilibili.com/1240239117?spm_id_from=333.1007.0.0)]
