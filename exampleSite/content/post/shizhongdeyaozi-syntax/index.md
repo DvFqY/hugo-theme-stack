@@ -4,14 +4,14 @@ title = "失踪的腰子"
 date = "2023-1-6"
 description = "到底是道德的沦丧，还是人性的扭曲."
 tags = [
-    "只是一个小故事",
+    "",
     "我偷偷写过小说",
-    "能找到稿子我会写道这个网站",
+    "能找到稿子我会写到这个网站",
     "开心就好！",
 ]
-categories = [
-    "申**",
-    "诱惑",
+个人 = [
+    "",
+    "",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
