@@ -1,7 +1,7 @@
 ---
-title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+title: 关于
+description: 这是第2次试着创建网站，这一次我想成功。
+date: '2023-1-6'
 aliases:
   - about-us
   - about-hugo
@@ -15,20 +15,16 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+第2次搭建属于自己的博客，希望能成功。后期会不断完善的。
 
-Hugo makes use of a variety of open source projects including:
+提供点好玩的网站，可以点击查看。
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* https://www.4399.com/
+* https://www.bilibili.com/
+* https://www.rjctx.com/
+* https://wallhaven.cc/
+* https://thdog.moe/
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+希望能在这里让你们玩的开心，这里我后期学会后会在网站里藏点我的小彩蛋，可以寻找。 搭建这个网站最主要的难受一点就是我不懂代码！！
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+b站 [bilbli]([血染大橘子的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/1240239117?spm_id_from=333.1007.0.0)).
