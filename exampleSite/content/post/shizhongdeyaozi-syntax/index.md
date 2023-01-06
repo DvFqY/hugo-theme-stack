@@ -4,14 +4,14 @@ title = "失踪的腰子"
 date = "2023-1-6"
 description = "到底是道德的沦丧，还是人性的扭曲."
 tags = [
-    "markdown",
-    "css",
-    "html",
-    "themes",
+    "只是一个小故事",
+    "我偷偷写过小说",
+    "能找到稿子我会写道这个网站",
+    "开心就好！",
 ]
 categories = [
-    "themes",
-    "syntax",
+    "申**",
+    "诱惑",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
@@ -26,3 +26,4 @@ image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
   曾经有个邯郸人士，他叫申**，他由于太想要钱财，于是便走了捷径， 看到了路边电线杆的重金求子，于是便去打电话，电话那头的人说要去 缅甸才能打钱，被钱迷惑的申**没忍住就去了，只是第2天，便被绳子拴 起来 ，割掉了腰子。
 
   这个故事告诉我们谨防天上掉馅饼，不要像申**一样，被钱财迷惑双眼。
+
