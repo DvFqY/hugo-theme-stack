@@ -42,7 +42,7 @@ image = "matt-le-SJSpo9hQf7s-unsplash.jpg"
 <div class="video-wrapper">
     <iframe 
 src="https://player.bilibili.com/player.html?{{ 
-$basicQuery | safeURL }}&{{ $videoQuery | safeURL }}"
+$basicQuery | BV1pG4y117uM }}&{{ $videoQuery | safeURL }}"
             scrolling="no"
             frameborder="no"
             framespacing="0"
