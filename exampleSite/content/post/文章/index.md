@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 title = "第3章"
 date = "2023-1-7"
-description = "建设中..."
+description = ""
 categories = [
     "建设中..."
 ]
