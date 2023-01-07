@@ -14,8 +14,8 @@ tags = [
 ]
 image = "matt-le-SJSpo9hQf7s-unsplash.jpg"
 
-src="https://player.bilibili.com/player.html?{{ 
-$basicQuery | BV1pG4y117uM }}&{{ $videoQuery | safeURL }}"
+src=" BV1pG4y117uM “
+
 
 +++
 
