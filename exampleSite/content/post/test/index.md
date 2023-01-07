@@ -16,13 +16,6 @@ image = "2.jpg"
 
 
 
-```html
-    <p>Bilibili 视频av号或BV号错误！请检查视频av号或BV号是否正确</p>
-    <p>当前视频av或BV号：{{ $vid }}，视频分P：{{ $videopage }}</p>
-```
-
-
-
 <div class="video-wrapper">
     <iframe src="https://player.bilibili.com/player.html?{{ $basicQuery | safeURL }}&{{ $videoQuery | safeURL }}"
             scrolling="no"
