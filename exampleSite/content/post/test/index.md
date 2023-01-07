@@ -1,16 +1,16 @@
 +++
 author = "Hugo Authors"
-title = "test."
+title = "建设中...."
 date = "2023-1-6"
-description = "test"
+description = "建设中...."
 categories = [
-    "test",
-    "test"
+    "建设中....",
+    "建设中...."
 ]
 tags = [
-    "test",
-    "test",
-    "test"
+    "建设中....",
+    "建设中....",
+    "建设中...."
 ]
 image = "2.jpg"
 
@@ -18,4 +18,4 @@ image = "2.jpg"
 
 +++
 
-test
+建设中....
