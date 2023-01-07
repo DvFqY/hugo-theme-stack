@@ -1,8 +1,8 @@
 +++
 author = "Hugo Authors"
-title = "我会想到好的内容的..."
+title = "第2章"
 date = "2023-1-7"
-description = "加油"
+description = ""
 tags = [
     "文章",
     "",
