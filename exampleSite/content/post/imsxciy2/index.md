@@ -1,6 +1,6 @@
 +++
 author = "Hugo Authors"
-title = "imsxciy"
+title = "imsxciy2"
 date = "2023-1-7"
 description = "【黑乐谱】少女さとり~3rd eye"
 tags = [
