@@ -14,8 +14,6 @@ tags = [
 ]
 image = "matt-le-SJSpo9hQf7s-unsplash.jpg"
 
-src=" BV1pG4y117uM “
-
 
 +++
 
