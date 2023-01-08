@@ -150,7 +150,7 @@ params:
             id:
     widgets:
         homepage:
-            - type: 搜索
+            - type: search
             - type: archives
               params:
                   limit: 8
