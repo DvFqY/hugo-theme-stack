@@ -13,13 +13,13 @@ languages:
     zh-cn:
         languageName: 中文
         title: 血染大橘子
-        description: 演示说明
+        description: 主要用的中文
         weight: 2
     ar:
         languageName: عربي
         languagedirection: rtl
         title: 血染大橘子
-        description: وصف تجريبي
+        description: 主要用的中文
         weight: 3
 
 # Change it to your Disqus shortname before using
@@ -48,7 +48,7 @@ params:
     favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
+        since: 2023
         customText:
     
     dateFormat:
@@ -153,7 +153,7 @@ params:
             - type: search
             - type: archives
               params:
-                  limit: 5
+                  limit: 8
             - type: categories
               params:
                   limit: 10
@@ -214,12 +214,11 @@ related:
     threshold: 60
     toLower: false
     indices:
-        - name: tags
+        - name: 标签
           weight: 100
 
-        - name: categories
+        - name: 分类
           weight: 200
-
 
 markup:
     goldmark:
