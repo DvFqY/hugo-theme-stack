@@ -7,4 +7,6 @@ menu:
             icon: user
 ---
 
-This is a test page for i18n support.
+
+
+ 主要是用的英文版本进行更新，可以移步英文版观看。

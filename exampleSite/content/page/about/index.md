@@ -1,6 +1,6 @@
 ---
 title: 关于
-description: 这是第2次试着创建网站，这一次我想成功。
+description: 这里会是更新博客日志。
 date: '2023-1-6'
 aliases:
   - about-us
@@ -17,14 +17,6 @@ image: 1.jpg
 ---
 
 第2次搭建属于自己的博客。
-
-提供点好玩的网站，可以点击查看。
-
-* https://www.4399.com/
-* https://www.bilibili.com/
-* https://www.rjctx.com/
-* https://wallhaven.cc/
-* https://thdog.moe/
 
 希望能在这里让你们玩的开心，这里我后期学会后会在网站里藏点我的小彩蛋，可以寻找。 
 
