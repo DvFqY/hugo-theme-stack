@@ -73,7 +73,7 @@ params:
     
     comments:
         enabled: true
-        provider: disqus
+        provider: utterances
     
         disqusjs:
             shortname:
@@ -83,9 +83,9 @@ params:
             adminLabel:
     
         utterances:
-            repo:
+            repo: irithys/blog-comment
             issueTerm: pathname
-            label:
+            label: utterances
     
         remark42:
             host:
